@@ -1,0 +1,48 @@
+{
+  "name": "@types/tinymce",
+  "version": "4.5.3",
+  "description": "TypeScript definitions for TinyMCE",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Martin Duparc",
+      "url": "https://github.com/martinduparc/"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/jquery": "*"
+  },
+  "peerDependencies": {},
+  "typesPublisherContentHash": "892a2a4865e6c9526ef9939de3df06e28cf71997476c185b1b642e4927407882",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/tinymce@4.5.3",
+  "dist": {
+    "shasum": "9fc0f1a3275482f24f15890e6df36d7194f886ea",
+    "tarball": "https://registry.npmjs.org/@types/tinymce/-/tinymce-4.5.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/tinymce-4.5.3.tgz_1490730811057_0.6175390663556755"
+  },
+  "directories": {},
+  "_shasum": "9fc0f1a3275482f24f15890e6df36d7194f886ea",
+  "_resolved": "https://registry.npmjs.org/@types/tinymce/-/tinymce-4.5.3.tgz",
+  "_from": "@types/tinymce@latest",
+  "readme": "ERROR: No README data found!"
+}
